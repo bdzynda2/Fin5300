@@ -1,25 +1,18 @@
 #Bond Pricer
 
-import numpy as np
-
-"""
-lastcoupon = np.datetime64('2017-02-10')
-nextcoupon = np.datetime64('2017-08-10')
-settledate = np.datetime64('2017-02-24')
+import numpy as np 
 
 def pv(payment, ytm, frequency, fracAct, periods):
     pv = [] 
+    payment = payment / freq
     for i in range(periods):
-        pvCoupons = payment / ( 1 + ytm/frequency)**(fracAct+i)
+        pvCoupon = payment / ( 1 + ytm/frequency)**(fracAct+i)
         pv.append(pvCoupon)
     pvCoupon = sum(pv)
-    pvFace = face / (1+ytm/frequency) ** (fracAct + i)
-    pv = pvCoupons + pvFace
+    pvFace = 100 / (1+ytm/frequency) ** (fracAct + i)
+    pv = pvCoupon + pvFace
     return pv
 
-
-
-"""
 
 lastCouponInput = input("\nEnter the Last Coupon (YYYY-MM-DD): ")
 
@@ -41,5 +34,16 @@ print("\nRemaining Days: ", remainingDays)
 
 print("\nTotal Days: ", totalDays)
 
-
 print("\nThe fractional period is ", fractionalPeriod)
+
+print("\nAssume $100.00 FV\n")
+
+CouponPayment = float(input("\nEnter the Coupon Payment in Dollars: $ "))
+YTM = float(input("\nEnter the YTM as a decimal: ")) 
+freq = int(input("\nEnter the coupon frequency periods per year: "))
+n = int(input("\nEnter the total periods: "))
+
+
+presentValue = pv(CouponPayment, YTM, freq, fractionalPeriod, n)
+
+print("\nThe Present Value of the Bond is $", presentValue)
