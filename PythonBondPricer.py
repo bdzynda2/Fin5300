@@ -45,5 +45,18 @@ n = int(input("\nEnter the total periods: "))
 
 
 presentValue = pv(CouponPayment, YTM, freq, fractionalPeriod, n)
+accInt = (settleDate - lastCoupon) / (totalDays) * CouponPayment / 2
+Flat = presentValue - (accInt)
 
 print("\nThe Present Value of the Bond is $", presentValue)
+print("\nThe accrued interest is  $", accInt)
+print("\nThe flat price is  $", Flat)
+
+
+'''
+settleDate = np.datetime64("2017-09-12")
+lastCoupon = np.datetime64("2017-08-15")
+CouponPayment=2.25
+presentValue = 100
+'''
+
