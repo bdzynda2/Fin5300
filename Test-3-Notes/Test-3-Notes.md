@@ -8,7 +8,7 @@
 
 * Credit Risk has two components: Default Risk and Loss Serverity. The former is the probability that the borrower defaults and the second is the portion of a bond's value (inclduing unpaid interest) and investor loses. 
 
-Expected Loss = Default Probability x Loss Severity given default where Loss Severity = (1 - Recovery Rate)
+** Expected Loss = Default Probability x Loss Severity given default where Loss Severity = (1 - Recovery Rate)
 
 ### B) Describe seniority rankings of corporate debt and explain the potential violation of the priority claims in a banktruptcy proceeding
 
