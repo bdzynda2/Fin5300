@@ -30,6 +30,7 @@ __Less debt an issuer has outstanding, the less frequently its debt trades, and 
  + Secured Debt and Unsecured Debt - Secured has a direct claim or pledge from the issuer on certain assets and their associated cash flows. Unsecured have only a general claim on an issuer's assets and cash flow. 
  
 * Priority of Claims:
+
 (1) First/Second/Third Lien - pledge of assets that could include buildings, properties, equipment, licenses, patents, brands, etc. First mortgage debt refers to pledge of specific property. 
 (2) Senior Secured
 (3) Senior Unsecured - most common type of all corporate bonds
