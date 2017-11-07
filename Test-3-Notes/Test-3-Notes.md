@@ -31,12 +31,12 @@ __Less debt an issuer has outstanding, the less frequently its debt trades, and 
  
 * Priority of Claims:
 
-(1) First/Second/Third Lien - pledge of assets that could include buildings, properties, equipment, licenses, patents, brands, etc. First mortgage debt refers to pledge of specific property. 
-(2) Senior Secured
-(3) Senior Unsecured - most common type of all corporate bonds
-(4) Senior Subordinated
-(5) Subordinated - here, investors have lowest priority of claims and oftern have little or no recovery in default
-(6) Junior Subordinated
+  1) First/Second/Third Lien - pledge of assets that could include buildings, properties, equipment, licenses, patents, brands, etc. First mortgage debt refers to pledge of specific property. 
+  2) Senior Secured
+  3) Senior Unsecured - most common type of all corporate bonds
+  4) Senior Subordinated
+  5) Subordinated - here, investors have lowest priority of claims and oftern have little or no recovery in default
+  6) Junior Subordinated
     
 * Companies issue and investors buy various levels of debt with different seniority rankings so as to optimize cost of capital, find the right mix of debt and equity, market may demand more secured debt. Also, subordinated debt, for the issuer, may be cheaper than equity and less restrictive than senior debt. Also, investors may be willing to buy junior and subordinated debt becase the yield may be worth the risk. 
 
