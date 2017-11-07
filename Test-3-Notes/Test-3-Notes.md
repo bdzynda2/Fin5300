@@ -86,7 +86,21 @@ __The Four C's of Credit__
  
  5) Levels of Competition - Industries with heavy competition tend to have less cash flow and higher credit risk. Regulation can help limit competition, as it does in monopolies liek utilities and thus have stable cash flows. However, utilities do carry higher levels of debt
  
-One should also consider how companies in an industry generate revenues and ear profits. Some industries may have high fixed costs and need a certain amount of business to operate - like inan airline industry. 
+One should also consider how companies in an industry generate revenues and ear profits. Some industries may have high fixed costs and need a certain amount of business to operate - like in an airline industry. 
+
+Industry Fundamentals - Sensitivity to macroeconomic factors, growth prospects, profitability. One should examine the following:
+
+* Cyclical or non-cyclical - companies in cyclical industries should carry lower levels of debt. 
+* Growth Prospects - industries with little or no growth get merged or face acquisition. This may be of benefit or detriment to bondholder depending on how it is financed. Weaker competition in slow growth industries may affect creditworthiness adversely. 
+* Published industry statistics - perfomance can be assessed by published statistics 
+
+Company Fundamentals 
+
+1) Competitive Position - based on industry structure and fundamentals, one looks into the market share, how it has changed: increased, decreased, etc. Is it above or below peers?
+2) Track Record & Operating History - How has company performed over time, especially during both good and bad economic times? What are trends in revenue, profit margins, and cash flow?
+3) Management Strategy and Execution
+
+# Page 551
 
 ### F) Calculate and interpret the financial ratios used in analysis
 
