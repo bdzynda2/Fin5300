@@ -41,7 +41,21 @@ __Less debt an issuer has outstanding, the less frequently its debt trades, and 
 * Companies issue and investors buy various levels of debt with different seniority rankings so as to optimize cost of capital, find the right mix of debt and equity, market may demand more secured debt. Also, subordinated debt, for the issuer, may be cheaper than equity and less restrictive than senior debt. Also, investors may be willing to buy junior and subordinated debt becase the yield may be worth the risk. 
 
     
+* Recovery Rates
+ + All creditors at the same level of capital structure are treated as one class - senior unsecured bondholder whose debt is due in 30 years has same claim on banktruptcy as one whose principal is paid out in six months
+ 
+ + Defaulted debt is still traded by investors and brokers if the assessment that liquidation or banktruptcy may lead to some recovery value. 
+ 
+ + Recovery Rates can vary widely by industry - Companies that go bankrupt in industries that are in secular decline will most likely have lower recovery rates than those that go bankrupt in industries suffering from cyclical economic downturn
+ 
+ + Recovery Rates can vary depending on when they occur in the credit cycle - closely linked to economic cycle. *Credit cycle describes the changing availability and pricing of credit. When the economy is strong or imporiving, the willingness of lenders to extend credit on favorable terms is high. Credit is less available and more expensive when the economy is weak and lenders pull back.
+ 
+ + Recovery Rates are averages - there can be large variability. Proportion of debt in capital structure may make a difference. 
+ 
+* Best measure of credit risk is expected loss. Having an idea how much one can lose in the event of default is a critical factor in valuing credit
 
+* Priority of claims is not always absolute - not like a waterfall despite appearances
+ * Creditors 
  
 
 ### C) Distinguish between corporate issuer credit ratings and issue credit ratings and describe the rating agency practice of "notching"
