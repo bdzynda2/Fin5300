@@ -54,15 +54,39 @@ __Less debt an issuer has outstanding, the less frequently its debt trades, and 
  
 * Best measure of credit risk is expected loss. Having an idea how much one can lose in the event of default is a critical factor in valuing credit
 
-* Priority of claims is not always absolute - not like a waterfall despite appearances
- * Creditors 
+* Priority of claims is not always absolute - not like a waterfall despite appearances. In principle: 
+ * Creditors with a secured claim have the right to the value of that specific property before any other claim. If the value of the pledge property is less than the claim, the difference becomes a senior unsecured claim
+ 
+ * Unsecured creditorshave a right to be paid in full before holders of equity interests receive value on interests
+ 
+ * Senior creditors take priority over junior
+ 
+ * In practice, juniors may receive some consideration without seniors being paid in full. All classes of claimants get to vote to confirm a plan of reorganization. By consent of all parties or judges orders, absolute priority may not be strictly enforced. Resolution can go on for months or years which can make quicker negotiations more attractive. As such, junior claimants may receive a bit more. 
  
 
 ### C) Distinguish between corporate issuer credit ratings and issue credit ratings and describe the rating agency practice of "notching"
 
+
 ### D) Explain risks in relying on ratings from credit rating agencies
 
 ### E) Explain the components of traditional credit analysis
+
+Goal of credit analysis is to assess issuer's ability to satisfy debt obligations. It seeks to understand company's ability to generate cash flow over the term of its debt obligations. As such, analyst must assess credit quality and fundamentals of the industry
+
+__The Four C's of Credit__
+
+1) Capacity - refers to ability of a borrower to service its debt and make payments on time. First place to look is industry structure
+ 1) Power of Suppliers - an industry that relies on just a few suppliers has greater credit risk than an industry that has multiple suppliers. An industry with more suppliers can help employ competition to keep prices in check
+ 
+ 2) Power of Buyers/Customers - Industries with just a few customers have greater risk since negotiating power lies with buyers
+ 
+ 3) Barriers to Entry - Industries with high barriers to entry have lower risk since competition may not be as fierce. High barriers include high capital investments, large distribution systems, patents, regulation. 
+ 
+ 4) Substitution Risk - industries with products and servies with no cost-competitive substitutes have stronger pricing power, higher cash flows, and have less credit risk. However, new technologies and inventions can raise credit risk by raising substitution risk. 
+ 
+ 5) Levels of Competition - Industries with heavy competition tend to have less cash flow and higher credit risk. Regulation can help limit competition, as it does in monopolies liek utilities and thus have stable cash flows. However, utilities do carry higher levels of debt
+ 
+One should also consider how companies in an industry generate revenues and ear profits. Some industries may have high fixed costs and need a certain amount of business to operate - like inan airline industry. 
 
 ### F) Calculate and interpret the financial ratios used in analysis
 
