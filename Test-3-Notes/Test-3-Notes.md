@@ -4,9 +4,9 @@
 
 ### A) Describe credit risk and credit-related risks affecting corporate bonds
 
-..* Credit Risk is the risk of loss resulting from the borrower (issuer of debt) failing to make full and timely payments of interest and/or principal. 
+* Credit Risk is the risk of loss resulting from the borrower (issuer of debt) failing to make full and timely payments of interest and/or principal. 
 
-...* Credit Risk has two components: Default Risk and Loss Serverity. The former is the probability that the borrower defaults and the second is the portion of a bond's value (inclduing unpaid interest) and investor loses. 
+* Credit Risk has two components: Default Risk and Loss Serverity. The former is the probability that the borrower defaults and the second is the portion of a bond's value (inclduing unpaid interest) and investor loses. 
 
 Expected Loss = Default Probability x Loss Severity given default where Loss Severity = (1 - Recovery Rate)
 
