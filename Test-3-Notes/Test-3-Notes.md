@@ -26,7 +26,22 @@ __Less debt an issuer has outstanding, the less frequently its debt trades, and 
 
 * Capital Structure is the composition and distribution across operating units of a company's debt and equity including bank debt, bonds of all seniority rankings, preferred stock, and common equity. 
 
-* Seniority Ranking
+* Seniority Ranking 
+ + Secured Debt and Unsecured Debt - Secured has a direct claim or pledge from the issuer on certain assets and their associated cash flows. Unsecured have only a general claim on an issuer's assets and cash flow. 
+ 
+* Priority of Claims:
+    (1) First/Second/Third Lien - pledge of assets that could include buildings, properties, equipment, licenses, patents, brands, etc. First mortgage debt refers to pledge of specific property. 
+    (2) Senior Secured
+    (3) Senior Unsecured - most common type of all corporate bonds
+    (4) Senior Subordinated
+    (5) Subordinated - here, investors have lowest priority of claims and oftern have little or no recovery in default
+    (6) Junior Subordinated
+    
+* Companies issue and investors buy various levels of debt with different seniority rankings so as to optimize cost of capital, find the right mix of debt and equity, market may demand more secured debt. Also, subordinated debt, for the issuer, may be cheaper than equity and less restrictive than senior debt. Also, investors may be willing to buy junior and subordinated debt becase the yield may be worth the risk. 
+
+    
+
+ 
 
 ### C) Distinguish between corporate issuer credit ratings and issue credit ratings and describe the rating agency practice of "notching"
 
