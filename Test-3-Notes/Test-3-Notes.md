@@ -12,11 +12,11 @@
 
 * Spread Risk - Yield Spreads widen based on two factors: a decline in issuer's creditworthiness (credit migration or downgrade risk) and an increase in market liquidity risk
 
-+ Credit Migration Risk means that bond issuer's credit rating lowers, increasing the risk of default and causing the yield spreads on the bond to widen and thereby the price to fall. 
+* + Credit Migration Risk means that bond issuer's credit rating lowers, increasing the risk of default and causing the yield spreads on the bond to widen and thereby the price to fall. 
 
 + Market Liquidity Risk is the risk that the price which investors can transact may differ from price indicated on the market. To compensate for the risk of not being able to buy or sell a given bond, the spread or yield premium on corporate bonds includes a market liquidity component, in addition to a credit risk component. Two main issues that affect market liquidity risk:
 
-* 1) Size of the issuer (amount of publicly traded debt issuer has outstanding)
+1) Size of the issuer (amount of publicly traded debt issuer has outstanding)
 2) Credit quality of the issuer
 
 __Less debt an issuer has outstanding, the less frequently its debt trades, and thus the higher the market liquidity risk. The lower the quality of the issuer, the higher the market liquidity risk__
