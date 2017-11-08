@@ -12,9 +12,9 @@
 
 * Spread Risk - Yield Spreads widen based on two factors: a decline in issuer's creditworthiness (credit migration or downgrade risk) and an increase in market liquidity risk
 
-* + Credit Migration Risk means that bond issuer's credit rating lowers, increasing the risk of default and causing the yield spreads on the bond to widen and thereby the price to fall. 
+ + Credit Migration Risk means that bond issuer's credit rating lowers, increasing the risk of default and causing the yield spreads on the bond to widen and thereby the price to fall. 
 
-+ Market Liquidity Risk is the risk that the price which investors can transact may differ from price indicated on the market. To compensate for the risk of not being able to buy or sell a given bond, the spread or yield premium on corporate bonds includes a market liquidity component, in addition to a credit risk component. Two main issues that affect market liquidity risk:
+ + Market Liquidity Risk is the risk that the price which investors can transact may differ from price indicated on the market. To compensate for the risk of not being able to buy or sell a given bond, the spread or yield premium on corporate bonds includes a market liquidity component, in addition to a credit risk component. Two main issues that affect market liquidity risk:
 
 1) Size of the issuer (amount of publicly traded debt issuer has outstanding)
 2) Credit quality of the issuer
@@ -61,7 +61,9 @@ __Less debt an issuer has outstanding, the less frequently its debt trades, and 
  
  * Senior creditors take priority over junior
  
- * In practice, juniors may receive some consideration without seniors being paid in full. All classes of claimants get to vote to confirm a plan of reorganization. By consent of all parties or judges orders, absolute priority may not be strictly enforced. Resolution can go on for months or years which can make quicker negotiations more attractive. As such, junior claimants may receive a bit more. 
+* In practice, juniors may receive some consideration without seniors being paid in full. All classes of claimants get to vote to confirm a plan of reorganization. By consent of all parties or judges orders, absolute priority may not be strictly enforced. Resolution can go on for months or years which can make quicker negotiations more attractive. As such, junior claimants may receive a bit more. 
+ 
+
  
 
 ### C) Distinguish between corporate issuer credit ratings and issue credit ratings and describe the rating agency practice of "notching"
@@ -98,9 +100,9 @@ Company Fundamentals
 
 1) Competitive Position - based on industry structure and fundamentals, one looks into the market share, how it has changed: increased, decreased, etc. Is it above or below peers?
 2) Track Record & Operating History - How has company performed over time, especially during both good and bad economic times? What are trends in revenue, profit margins, and cash flow?
-3) Management Strategy and Execution
+3) Management Strategy and Execution - How might the management strategy positively affect the business, given competition and feasibility? Furthermore, how does it affect the balance sheet? It shouldn't adversely affect bondholders. 
 
-# Page 551
+
 
 ### F) Calculate and interpret the financial ratios used in analysis
 
